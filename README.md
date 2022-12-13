@@ -27,10 +27,9 @@
 <p> Acontinuacion viene lo mas complicado que encontre, pasar de Hexadeimal a RGB, usamos el mismo parametro Hexadecimal que obtuvimos, y creamos 3 constantes la cual agregara unos cuantos bits de diferencia por cada tipo de color </p>
 
 <p> Y finalmente, agregamos la funcion color al background del cuerpo, de esta forma cadavez que usemos el boton para generar un color aleatorio, el estilo del body de nuestra pagina tomara el color correspindiente a la funcion "color".
-    Asi como a su vez, al texto de nuestra etiqueta SPAN con la ID "hex" tomara el nombre hexadecimal del color que se elavoro sucediendo lo mismo con el codigo RGB para 
-    la etiqueta SPAN con el ID "rgb"</p>
+    Asi como a su vez, al texto de nuestra etiqueta SPAN con la ID "hex" tomara el nombre hexadecimal del color que se elavoro sucediendo lo mismo con el codigo RGB para  la etiqueta SPAN con el ID "rgb"</p>
     
-    ![image](https://user-images.githubusercontent.com/101760063/207403882-2d60f89c-7a66-4c3c-be60-1b7e2cf20b8c.png)
+![image](https://user-images.githubusercontent.com/101760063/207404535-5b3c046f-a26b-4eda-8ed8-6326835be5ef.png)
 
 <p> Agregamos un par de estilos, y una media query para un diseño responsivo para dispositivos moviles y tendriamos lista nuestra pagina para generar colores aleatorios
  en Hexadecimal y RGB con Javascript </p> 
